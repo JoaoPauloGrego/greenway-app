@@ -1,5 +1,5 @@
 import React from 'react';
-import {createStackNavigator} from '@react-native/stack';
+import {createStackNavigator} from '@react-navigation/stack';
 import TelaInicial from '../views/TelaInicial';
 import TelaDetalhes from '../views/TelaDetalhes';
 
